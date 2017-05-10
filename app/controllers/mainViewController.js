@@ -1,0 +1,3 @@
+mainModule.controller('mainViewController', function () {
+    
+});
